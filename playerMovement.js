@@ -4,7 +4,7 @@ AFRAME.registerComponent("player-movement", {
     },
     walk: function () {
       window.addEventListener("keydown", (e) => {
-        // Add the condition to play sound
+        // Añadir la condición para reproducir sonido
 
 
 
